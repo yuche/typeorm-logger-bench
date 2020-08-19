@@ -1,0 +1,12 @@
+{
+  "name": "typeorm-logger-bench",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yuche <i@yuche.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/benchmark": "^1.0.33",
+    "benchmark": "^2.1.4",
+    "typeorm": "^0.2.25"
+  }
+}
